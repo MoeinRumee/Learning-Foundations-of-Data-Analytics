@@ -10,3 +10,7 @@ Data Analysis Process - Ask - Prepare - Process - Analyze - Share - Act.
 ## Modeule 2
 Stages of data life Cycle
 - Plan, Capture, Manage, Analyze, Archive, Destroy
+
+
+## Module 3
+
