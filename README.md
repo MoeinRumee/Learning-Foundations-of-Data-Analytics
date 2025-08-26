@@ -13,4 +13,10 @@ Stages of data life Cycle
 
 
 ## Module 3
+SQL - Structured Query Language
+Query - a query is a request of data or information from a database
+Sytanx of SQL -
+- SELECT - use SELECT to choose the columns you want to return
+- FROM - use FROM to choose the table where the columns you want are located
+- WHERE - use WHERE to filter for some information
 
