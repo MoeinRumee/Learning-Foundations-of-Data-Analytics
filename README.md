@@ -51,6 +51,22 @@ By analyzing this data, Starbucks could forecast high-demand periods, prepare po
 
 ### Module 1: Ask Effective Questions
 
+- Data Analysts typically work with 6 problem types
+- Making predictions - Categorizing things - Spotting something unusual - Identifying themes - Discovering connections - Finding patterns
+- Highly Effective questions are **SMART** Questions
+- SMART - Specific, Measurable, Action-oriented, Relevant, Time-bound
+- **Three** main Career Path -
+- **Data Analyst**
+- **Data Engineer**
+- **Data Scientist**
+
+
+
+
+
+
+
+
 ### Module 2: Make data-driven decisions
 
 ### Module 3: Spreadsheet Magic
