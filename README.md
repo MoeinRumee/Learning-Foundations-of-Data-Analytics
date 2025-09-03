@@ -1,5 +1,7 @@
 # Learning-Foundations-of-Data-Analytics
 
+## Course 1: Foundations: Data, Data, Everywhere
+
 ## Module 1
 Data Analysis Process - Ask - Prepare - Process - Analyze - Share - Act.
 - Make decisions based on data not on instict
@@ -39,3 +41,18 @@ Starbucks could utilize data to minimize long wait times during peak hours by fo
 They would need to collect transaction timestamps, order details, store traffic patterns, and mobile order frequency to understand customer flow and demand surges throughout the day.
 
 By analyzing this data, Starbucks could forecast high-demand periods, prepare popular drinks in advance, and schedule staff more effectively, reducing wait times and ensuring customers consistently receive fresh, timely orders.
+
+
+
+
+
+
+## Course 2: Ask Questions to Make Data Driven Decisions
+
+### Module 1: Ask Effective Questions
+
+### Module 2: Make data-driven decisions
+
+### Module 3: Spreadsheet Magic
+
+### Module 4: Always remember the Stakeholder
