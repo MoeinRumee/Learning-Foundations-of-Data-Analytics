@@ -60,6 +60,11 @@ By analyzing this data, Starbucks could forecast high-demand periods, prepare po
 - **Data Engineer**
 - **Data Scientist**
 
+### Module 2: Make Data-Driven Decisions
+
+### Module 3: Spreadsheet Magic
+
+
 
 
 
